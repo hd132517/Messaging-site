@@ -1,0 +1,33 @@
+.text{
+    padding: 1em;
+    border-radius: 10px;
+    border: 2px solid transparent;
+    outline:none;
+}
+
+.send{
+    background-color: darkblue;
+    color: white;
+}
+
+.messages{
+    color: cyan;
+}
+
+.welcome{
+    color:purple;
+}
+
+.convo{
+    background-color: white;
+    width: 1000px;
+    margin: 5% auto;
+}
+
+.convoscroll{
+    width: 1000px;
+    background-color: white;
+    height: 300px;
+    overflow:hidden;
+    overflow-y: scroll;
+}

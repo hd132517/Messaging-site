@@ -1,0 +1,19 @@
+.submit{
+    background-color: darkblue;
+    color: white;
+}
+
+.create{
+    color: cyan;
+    font-size: 50px;
+}
+
+.username{
+    font-size: 15px;
+    color:green;
+}
+
+.password{
+    font-size: 15px;
+    color:green;
+}

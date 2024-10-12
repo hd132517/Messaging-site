@@ -1,0 +1,19 @@
+body{
+    background-color: orange;
+}
+
+
+.home{
+    font-size: 50px;
+    color: cyan;
+}
+
+.warning{
+    font-size: 50px;
+    color: red;
+}
+
+.image{
+    width:200px;
+    height:200px;
+}
